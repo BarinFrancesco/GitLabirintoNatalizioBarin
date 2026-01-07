@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 0f8770517f255db46a2649f6823c23f1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - stampoCella: {fileID: 4689939958941414991, guid: 7d5277707f3983a428eaffef1105b399, type: 3}
+  - MaterialeCellaVittoria: {fileID: 2100000, guid: 37fabb0cbda02474397e6bd0dc334920, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
